@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Streyrey</h1>
 <h3 align="center">I'm a young motivated developer who tries to improve his skills every day!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=streyrey&label=Profile%20views&color=0e75b6&style=flat" alt="streyrey" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/streyrey" target="blank"><img src="https://img.shields.io/twitter/follow/streyrey?logo=twitter&style=for-the-badge" alt="streyrey" /></a> </p>
 
@@ -21,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=streyrey&show_icons=true&locale=en" alt="streyrey" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=streyrey&" alt="streyrey" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=streyrey&label=Profile%20views&color=0e75b6&style=flat" alt="streyrey" /> </p>
